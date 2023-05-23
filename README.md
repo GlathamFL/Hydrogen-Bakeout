@@ -5,7 +5,7 @@ Run in either Octave or MATLAB.
 
 You can use this code to pick a geometry and assign dimensions for spheres, plates, or tubes. You can then choose a tempeature and time to perform a bakeout for.
 The code will output a graph of the hydrogen concentration throughout a line in the solid, as well as the amount of moles of hydrogen left in the solid.
-The idea is to minimize the amount of hydrogen in the solid so that the part does not degass hydrogen into a process like MOCVD or PVD.
+The idea is to minimize the amount of hydrogen in the solid so that the part does not degass hydrogen into a process like MOCVD or ebeam lithography.
 
 The code can be adapated to other materials and diffusing atoms as long as you can the material's parameters related to Fick's laws.
 
